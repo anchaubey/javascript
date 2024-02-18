@@ -8,3 +8,8 @@ x = null;
 console.log(x);
 isFollow = false;
 console.log(isFollow);
+
+let name = "Ankit Chaubey";
+console.log(name);
+let a;
+console.log(a);
